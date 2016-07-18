@@ -1,4 +1,4 @@
-This repostiory contains the set of stopwords I used with NLTK for the WbSrch search engine.
+This repository contains the set of stopwords I used with NLTK for the WbSrch search engine.
 
 It contains some stopword lists from NLTK and ones cobbled together from other sources. The word lists are of varying quality. Feel free to modify them to suit your own needs -- I make no claim about their level of usefulness.
 
