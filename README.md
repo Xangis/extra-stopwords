@@ -6,11 +6,15 @@ It contains some stopword lists from NLTK and ones cobbled together from other s
 
 In order to use them with NLTK, they should be copied into your stopwords directory after you've set up NLTK and downloaded its own stopword list. The copy.sh file will do that, assuming NLTK's data directory is in your home directory.
 
+## License
+
+MIT license. See the "LICENSE" file for full text.
+
 ## Contibutors
 
 The following people have contributed to improving this library:
 
-Jason Champion
-Mohammed Gholami
-Jan Pipek
-Pavle Vidanović
+- Jason Champion
+- Mohammed Gholami
+- Jan Pipek
+- Pavle Vidanović
