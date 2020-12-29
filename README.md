@@ -18,3 +18,4 @@ The following people have contributed to improving this library:
 - Mohammed Gholami
 - Jan Pipek
 - Pavle Vidanović
+- @BLKSerene
