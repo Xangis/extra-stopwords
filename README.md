@@ -19,3 +19,4 @@ The following people have contributed to improving this library:
 - Jan Pipek
 - Pavle Vidanović
 - @BLKSerene
+- Yanaki Kolarov
